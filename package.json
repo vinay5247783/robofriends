@@ -1,7 +1,7 @@
 {
   "name": "robofriends",
   "version": "0.1.0",
-  "homepage": "https://vinay5247783.github.io/robofriends",
+  //"homepage": "https://vinay5247783.github.io/robofriends",
   "private": true,
   "dependencies": {
     "react": "^16.9.0",
@@ -14,8 +14,8 @@
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject",
-   "predeploy": "npm run build",
-   "deploy": "gh-pages -d build"
+  // "predeploy": "npm run build",
+   //"deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": "react-app"
