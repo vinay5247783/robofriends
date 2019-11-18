@@ -3,10 +3,10 @@ import Card from './card.js';
 
 
 const CardList = ({robots}) =>{
-	return(
+	return (
 	    <div>
 	    {
-		   robots.map((user, i) =>{
+		   robots.map((user, i) => {
 	   
 		  	return(	
 		  		<Card 
