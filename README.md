@@ -1,5 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+This project is deployed using github pages at this https://vinay5247783.github.io/robofriends/
 ## Available Scripts
 
 In the project directory, you can run:
